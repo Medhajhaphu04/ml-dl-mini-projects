@@ -2,7 +2,11 @@
 Collection of hands-on Machine Learning and Deep Learning mini projects built while learning and practicing ML/DL concepts.
 <br>
 ## Projects
-- House Price Prediction
+- California House Price prediction (Deep Learning - Regression)
+- Fashion MNIST Classification (Deep Learning - Classification)
+- Employee Retain prediction (ML - Classification)
+- House Price prediction (ML - Regression)
+- Iris Classification (ML - Classification)
 
 ## Tech Stack
 - Python
